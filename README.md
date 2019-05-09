@@ -1,5 +1,5 @@
 # mapMyWorld
-Project 5 of the Udacity Robotics Nanodegree Program
+Project 4 of the Udacity Robotics Nanodegree Program
 
 # Overview
 This project uses the ROS RTAB-Map package to map an environment. 
